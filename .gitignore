@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.pytest_cache/
+.idea/
+.vscode/
+*.db
+demo/
+demo.zip
+.txt
